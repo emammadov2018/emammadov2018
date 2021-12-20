@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elnur
-- 🔭 I’m currently studying a master's in Business Analytics, developing knowledge in data science, machine learning supervised and unsupervised algorithms, statistical modeling and improving my data visualization skills.
+- 🔭 I’m currently studying a master's in Business Analytics, developing knowledge in data science, machine learning models, statistical modeling and improving my data visualization skills.
 - 🌱 I’m currently learning python, machine learning and other data science concepts
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me emammadov2018@gmail.com or through LinkedIn https://www.linkedin.com/in/elnur-mammadov-68680412b/
